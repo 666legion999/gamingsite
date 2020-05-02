@@ -1,0 +1,2321 @@
+*{
+	margin: 0;
+	padding-left: 0;
+}
+html,
+body{
+	background-color: #ffffff;
+    height: 100%;
+}
+.gamebuy{
+   width: 1920px;
+    min-height: 767px;
+    overflow: hidden;
+}
+.allfuckinggame{
+width: 1920px;
+min-height: 100%;
+    overflow: hidden;
+}
+.allcontainer{
+width: 1920px;
+min-height: 100%;
+    overflow: hidden;
+}
+.maincontacthtml{
+width: 1920px;
+min-height: 100%;
+overflow: hidden;
+}
+.backgroundcontacts{
+background-color: #e8e8e8;
+padding-bottom: 189px;
+width: 1920px;
+padding-top: 45px;
+    overflow: hidden;
+}
+.contactsforgall{
+	background-color: #f7f7f7;
+padding-bottom: 189px;
+padding-top: 45px;
+ 
+}
+.headercontactpage{
+    width: 1920px;
+    min-height: 185px;
+}
+.allcontainercontacts3{
+    background-color: #f7f7f7;
+    width: 1920px;
+    margin-top: -8px;
+}
+    .allcontainer2{
+width: 1920px;
+min-height: 100%;  
+        overflow: hidden;
+    }
+.containercatalogtop{
+  background-color: #f7f7f7;
+    width: 1920px;
+    min-height: 100%;
+}
+.allcontainercontacts{
+      background-color: #f7f7f7;
+    width: 1920px;
+    min-height: 100%;
+}
+.containertop{
+	background-image: url(images/2.jpg);
+	background-size: cover;
+    width: 1920px;
+	height: 725px;
+	position: relative;
+}
+.containeraboutus{
+	min-width: 100%;
+	background-color: #ffffff;
+	position: relative;
+	height: 500px;
+}
+.containerservices{
+width: 1920px;
+height: 762px;
+background: #f7f7f7;
+position: relative;
+}
+.containergallery{
+    width: 1920px;
+	height: 889px;
+    background-color: #ffffff;
+    position: relative;
+}
+.containerslider{
+width: 1920px;
+	height: 537px;
+	position: relative;
+}
+.containernews{
+width: 1920px;
+	min-height: 888px;
+    max-height: 100%;
+	background-color: #ffffff;
+}
+.containerteam{
+width: 1920px;
+    /*min-height: 785px;*/
+    min-height: 875px;
+    max-height: 100%;
+    background-color: #f7f7f7;
+    background-size: 100%;
+}
+.containersearch{
+    background-image: url(images/smalltop.jpg);
+	background-size: cover;
+width: 100%;
+     /*min-height: 313px;*/
+    min-height: 313px;
+    max-height: 100%;
+}
+.containercontacts{
+width: 1920px;
+    /*height: 1111px;*/
+	min-height: 100%;
+    background-color: #ffffff;   
+}
+.tabmenu{
+	float:right;
+}
+.menu ul{
+	position: absolute;
+	left: 699px;
+	top: 128px;
+	width: 511px;
+	height: 16px;
+	}
+.lilist {
+	float: left;
+	list-style-type: none;
+    text-decoration-line: none;
+    
+}
+.linklist{
+padding: 29px 10px;
+color: #000000;
+font-family: "Roboto Condensed";
+font-size: 17px;
+font-weight: 400;
+line-height: 22.36px;
+}
+.linklist:hover{
+	color:darkmagenta;
+	border-bottom: 3px solid darkmagenta;
+    text-decoration-line: none;
+}
+.about-link{
+	letter-spacing: 0.36px;
+}
+.header{
+    width: 1920px;
+	height: 83px;
+	background-color: #000000;
+	opacity: 0.5;
+	position: absolute;
+	top: 13px;
+}
+.logoname{
+width: 169px;
+height: 29px;
+color: #ffffff;
+font-family: "Poppins"; 
+font-size: 36px;
+font-weight: 500;
+line-height: 22.36px;
+position: absolute;
+left: 475px;
+top: 24px;
+letter-spacing: 0.77px;
+}
+.logoname2{
+width: 171px;
+height: 12px;
+color: #ffffff;
+font-family: Poppins;
+font-size: 15px;
+font-weight: 500;
+line-height: 22.36px;
+text-transform: uppercase;
+letter-spacing: 30px;
+padding-top: 12px;
+position:absolute;
+left: 476px;
+bottom: 18px;
+}
+.headerlogo1{
+width: 17px;
+height: 25px;
+margin-left: 805px;
+margin-top:28px;
+}
+.headerlogo2{
+width: 25px;
+height: 19px;
+position: absolute;
+top: 32px;
+left: 971px;
+}
+.textlogo1{
+	height: 12px;
+	color: #ffffff;
+	font-family: "Roboto Condensed";
+	font-size: 17px;
+	font-weight: 400;
+	line-height: 22.36px;
+	letter-spacing: 0.36px;
+	position: absolute;
+	left: 833px;
+	top: 31px;
+}
+.textlogo2{
+width: 128px;
+height: 17px;
+color: #ffffff;
+font-family: "Roboto Condensed";
+font-size: 17px;
+font-weight: 400;
+line-height: 22.36px;
+/* Text style for "info@examp" */
+letter-spacing: 0.36px;
+position: absolute;
+top: 29px;
+left: 1010px;
+}
+
+/*Search form*/
+
+
+.search-form {
+  display: inline-block;
+  position: absolute;
+	left: 1238px;
+	top: 23px
+}
+.search-form-input {
+	  width: 208px;
+  height: 38px;
+  border: 1px solid #ffffff;
+	padding-top: 12px;
+	padding-left: 16px;
+	padding-bottom: 13px;
+  background: transparent;
+  color: #ffffff;
+  font-family: "Roboto Condensed";
+font-size: 17px;
+font-weight: 400;
+line-height: 22.36px;
+	letter-spacing: 0.36px;
+}
+.search-form-btn {
+  position: absolute;
+  top: 5px;
+	left: 174px;
+	border: 0;
+  /* Просто тюнинг внешнего вида */
+  background: transparent;
+  text-align: center;
+  cursor: pointer;
+}
+.search-line{
+	position: absolute;
+	left: 1395px;
+	top: 23px;
+}
+hr{
+	width: 1923px;
+height: 1px;
+	margin-top: 161px;
+}
+.textheader h4{
+width: 107px;
+height: 18px;
+font-size: 18px;
+color: #ffffff;
+font-family: "Roboto Condensed";
+font-weight: 400;
+line-height: 48px;
+margin-top: -20px;
+position: absolute;
+top:309px;
+	left: 906px;
+}
+.textheader img{
+	position: absolute;
+	top: 343px;
+	left: 917px;
+	width: 80px;
+	height: 2px;
+}
+.h1text{
+width: 576px;
+height: 48px;
+color: #ffffff;
+font-family: Poppins;
+font-size: 60px;
+font-weight: 500;
+line-height: 48px;
+position: absolute;
+top: 421px;
+left: 670px;
+}
+/*link menu*/
+.linkmenu{
+	float: right;
+	width: 195px;
+	height: 40px;
+	position: absolute;
+	top: 544px;
+	left: 860px;
+}
+.fblogo, .twlogo, .rsslogo, .vklogo{
+	width: 40px;
+	height: 40px;
+}
+.fblogo{
+	margin-right: 12px;
+}
+.rsslogo{
+	margin-right: 12px;
+	margin-left: 11px;
+}
+.lilinkmenu{
+	float: left;
+	list-style-type: none;
+	margin-top:12px;
+}
+.fb{
+ 	width: 9px;
+	height: 15px;
+	padding-top: 12px;
+	padding-left: 16px;
+	padding-right: 15px;
+	padding-bottom: 13px;
+	border: 2px solid #ffffff;
+	border-radius: 50%;
+}
+.fb:hover{
+	border: 2px solid #3b5998;
+	background-color: #3b5998;
+}
+.fb:active{
+	background-color: darkmagenta;
+}
+.tw{
+	width: 15px;
+	height: 13px;
+	padding-top: 13px;
+	padding-left: 13px;
+	padding-right: 12px;
+	padding-bottom: 14px;
+	border: 2px solid #ffffff;
+	border-radius: 50%;
+}
+.tw:hover{
+	border: 2px solid #00ACEE;
+	background-color: #00ACEE;
+}
+.tw:active{
+	background-color: darkmagenta;
+}
+.rss{
+	width: 14px;
+	height: 14px;
+	padding-top: 13px;
+	padding-left: 13px;
+	padding-right: 13px;
+	padding-bottom: 13px;
+	border: 2px solid #ffffff;
+	border-radius: 50%;
+}
+.rss:hover{
+	border: 2px solid #EE802F;
+	background-color: #EE802F;
+}
+.rss:active{
+	background-color: darkmagenta;
+}
+.vk{
+	width: 19px;
+	height: 11px;
+	padding-top: 15px;
+	padding-left: 11px;
+	padding-right: 10px;
+	padding-bottom: 14px;
+	border: 2px solid #ffffff;
+	border-radius: 50%;
+}
+.vk:hover{
+	border: 2px solid #4c75a3;
+	background-color: #4c75a3;
+}
+.vk:active{
+	background-color: darkmagenta;
+}
+/*end linkmenu*/
+/*for 2 container*/
+.imgabout{
+float: right;
+width: 540px;
+height: 338px;
+margin-right: 474px;
+margin-top: 81px;
+}
+.textabout{
+width: 398px;
+height: 203px;
+color: #999999;
+font-family: "Roboto Condensed";
+font-size: 12px;
+font-weight: 300;
+line-height: 24px;
+/* Text style for "Nemo enim" */
+letter-spacing: 0.12px;
+position: absolute;
+left:475px;
+top: 158px;
+}
+.container2 h1{
+width: 169px;
+height: 28px;
+}
+.aboutus{
+color: #f44336;
+font-family: Poppins;
+font-size: 36px;
+font-weight: 500;
+line-height: 36px;
+position: absolute;
+left: 474px;
+right: 1277px;
+top:95px;
+letter-spacing: -1px;
+}
+/*for 3 container*/
+.services{
+	width: 149px;
+height: 29px;
+color: #f44336;
+font-family: Poppins;
+font-size: 36px;
+font-weight: 500;
+line-height: 48px;
+	position: absolute;
+	top: 92px;
+	left: 888px;
+}
+.servicetab li{
+    float: left;
+    position: absolute;
+    
+}
+.servicetab2 li{
+    float: left;
+}
+.servicetab3 li{
+    float: left;
+    list-style-type: none;
+}
+.tree{
+width: 16px;
+height: 28px;
+margin-top: 37px;
+margin-bottom: 37px;
+margin-left: 43px;
+margin-right: 43px;
+}
+.serviceicontree{
+    width: 102px;
+height: 102px;
+border: 1px solid #acacac;
+    position: absolute;
+    top: 208px;
+    left: 815px;
+    border-radius: 50%;
+    background-color: #f44336;
+}
+.circle{
+width: 23px;
+height: 23px;
+margin-top: 40px;
+margin-bottom: 39px;
+margin-left: 40px;
+margin-right: 39px;
+}
+.serviceiconcircle{
+width: 102px;
+height: 102px;
+border: 1px solid #acacac;
+position: absolute;
+top: 208px;
+left: 1007px;
+background-color: #e1e1e1;
+border-radius: 50%;
+}
+.doll{
+width: 15px;
+height: 27px;
+margin-top: 37px;
+margin-bottom: 38px;
+margin-left: 44px;
+margin-right: 43px;
+}
+.serviceicondoll{
+width: 102px;
+height: 102px;
+border: 1px solid #acacac;
+background-color: #e1e1e1;
+    position: absolute;
+    left: 815px;
+    top: 383px;
+    border-radius: 50%;
+}
+.home{
+    width: 26px;
+height: 24px;
+margin-top: 39px;
+margin-bottom: 39px;
+margin-left: 38px;
+margin-right: 38px;
+}
+.serviceiconhome{
+    width: 102px;
+height: 102px;
+border: 1px solid #acacac;
+background-color: #e1e1e1;
+position: absolute;
+top: 383px;
+left: 1009px;
+border-radius: 50%;
+}
+.poll{
+    width: 22px;
+    height: 22px;
+    margin-top: 40px;
+margin-bottom: 40px;
+margin-left: 40px;
+margin-right: 40px;
+}
+.serviceiconpoll{
+width: 102px;
+height: 102px;
+border: 1px solid #acacac;
+background-color: #e1e1e1;
+position: absolute;
+top: 554px;
+left: 817px;
+border-radius: 50%;
+}
+.sett{
+width: 23px;
+height: 23px;
+margin-top: 40px;
+margin-bottom: 39px;
+margin-left: 40px;
+margin-right: 39px;
+}
+.serviceiconsett{
+    width: 102px;
+height: 102px;
+border: 1px solid #acacac;
+background-color: #e1e1e1;
+position: absolute;
+top: 554px;
+left: 1007px;
+border-radius: 50%;
+}
+.serviceiconsett:hover{
+    background-color:#f44336; 
+}
+.serviceicontree:hover{
+    background-color:#f44336; 
+}
+.serviceiconcircle:hover{
+    background-color:#f44336; 
+}
+.serviceicondoll:hover{
+    background-color:#f44336; 
+}
+.serviceiconhome:hover{
+    background-color:#f44336; 
+}
+.serviceiconpoll:hover{
+    background-color:#f44336; 
+}
+.h3tree{
+    width: 216px;
+height: 18px;
+color: #f44336;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+position: absolute;
+top: 212px;
+left: 533px;
+}
+.h3tree code{
+    letter-spacing: 0.16px;
+    font-family: Poppins;
+}
+.texttree{
+    width: 282px;
+height: 51px;
+color: #999999;
+font-family: "Roboto Condensed";
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+position: absolute;
+top: 248px;
+left: 467px;
+text-align: right;
+    letter-spacing: 0.12px;
+}
+.h3doll{
+width: 206px;
+height: 14px;
+color: #000000;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+  position: absolute;
+    top: 385px;
+    left: 542px;
+}
+.h3doll code{
+  letter-spacing: 0.16px;  
+    font-family: Poppins;
+}
+.textdoll{
+    width: 282px;
+height: 51px;
+color: #999999;
+font-family: "Roboto Condensed";
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+/* Text style for "Itaque ear" */
+letter-spacing: 0.12px;
+text-align: right;
+    position: absolute;
+    top: 419px;
+    left: 467px;
+}
+.h3poll{
+width: 219px;
+height: 18px;
+color: #000000;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+position: absolute;
+top: 560px;
+left: 529px;
+    }
+.h3poll code{
+font-family: Poppins;
+/* Text style for "Maiores Al" */
+letter-spacing: 0.16px;
+}
+.textpoll{
+    width: 282px;
+height: 51px;
+color: #999999;
+font-family: "Roboto Condensed";
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+/* Text style for "Itaque ear" */
+letter-spacing: 0.12px;
+position: absolute;
+top: 594px;
+left: 467px;
+text-align: right;
+}
+.h3circle{
+    width: 217px;
+height: 18px;
+color: #000000;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+    /* Text style for "Voluptatib" */
+letter-spacing: 0.16px;
+position: absolute;
+left: 1177px;
+top: 212px;
+}
+.textcircle{
+width: 280px;
+height: 51px;
+color: #999999;
+font-family: "Roboto Condensed";
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+/* Text style for "Itaque ear" */
+letter-spacing: 0.12px;
+position: absolute;
+left: 1174px;
+top: 248px;
+text-align: left;
+}
+.h3home{
+width: 215px;
+height: 14px;
+color: #000000;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+position: absolute;
+top: 386px;
+left: 1177px;
+}
+.h3home code{
+ font-family: Poppins;   
+/* Text style for "Dut Aut Re" */
+letter-spacing: 0.16px;
+}
+.texthome{
+width: 280px;
+height: 51px;
+color: #999999;
+font-family: "Roboto Condensed";
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+/* Text style for "Itaque ear" */
+letter-spacing: 0.12px;  
+text-align: left;
+position: absolute;
+top: 422px;
+left: 1177px;
+}
+.h3sett{
+   width: 215px;
+height: 18px;
+color: #000000;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+position: absolute;
+top: 560px;
+left: 1177px;
+}
+.h3sett code{
+    font-family: Poppins;
+    letter-spacing: 0.16px;
+}
+.textsett{
+    width: 280px;
+height: 51px;
+color: #999999;
+font-family: "Roboto Condensed";
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+/* Text style for "Itaque ear" */
+letter-spacing: 0.12px;
+text-align: left;
+position: absolute;
+top: 596px;
+left: 1177px;
+}
+.textservice h3:hover{
+    color: #f44336;
+}
+/*container4*/
+.gallery{
+width: 201px;
+height: 37px;
+color: #f44336;
+font-family: Poppins;
+font-size: 36px;
+font-weight: 500;
+line-height: 48px;
+white-space: nowrap;
+position: absolute;
+top: 93px;
+left: 861px;
+}
+.gallimg{
+    position: absolute;
+    top: 222px;
+}
+.assasinimg{
+width: 271px;
+height: 376px; 
+position: absolute;
+left: 374px;
+}
+.tombimg{
+width: 271px;
+height: 376px;
+position: absolute;
+left: 674px;
+}
+.romeimg{
+width: 271px;
+height: 376px;
+position: absolute;
+left: 974px;
+}
+.wowimg{
+width: 270px;
+height: 376px;
+position: absolute;
+left: 1275px;
+}
+.allnamegallery{
+
+	position: absolute;
+	margin-top: 20px;
+}
+.nameassasin{
+margin-top: 18px;
+margin-left: 52px;
+margin-right: 51px;
+margin-bottom: 70px;
+width: 168px;
+height: 16px;
+color: #000000;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 23.94px;
+text-transform: uppercase;
+letter-spacing: 0.14px;
+white-space: nowrap;
+}
+.nametomb{
+margin-left: 89px;
+margin-right: 89px;
+margin-bottom: 73px;
+width: 92px;
+height: 12px;
+color: #000000;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 23.94px;
+text-transform: uppercase;
+/* Text style for "Tomb Raide" */
+letter-spacing: 0.14px;
+white-space: nowrap;
+}
+.namerome{
+margin-left: 69px;
+margin-right: 67px;
+margin-bottom: 73px;
+width: 130px;
+height: 12px;
+color: #000000;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 23.94px;
+letter-spacing: 0.14px;
+white-space: nowrap;
+}
+.namewow{
+ margin-left: 52px;
+margin-right: 50px;
+margin-bottom: 50px;
+	/* Style for "World Of W" */
+width: 168px;
+height: 35px;
+color: #000000;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0.14px;
+font-family: Poppins;
+}
+.textblockrome, .textblockassasin, .textblocktomb, .textblockwow{
+background-color: #f7f7f7;
+position: absolute;
+top: 598px;
+left: 974px;
+width: 270px;
+height: 105px;
+background-color: #f7f7f7;	
+text-align: center;
+}
+.textblockassasin{
+left: 375px;
+}
+.textblocktomb{
+	left: 674px;
+}
+.textblockwow{
+	left: 1274px;
+}
+.buttonbuy{
+width: 26px;
+height: 15px;
+color: #ffffff;;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 24px;
+/* Text style for "B, uy" */
+letter-spacing: 0.14px;
+margin-top: 1px;
+margin-left: 52px;
+}
+.blockbutton{
+text-decoration: none;
+position: absolute;
+bottom: 13px;
+left: 70px;
+width: 130px;
+height: 30px;
+background-color: #f44336;
+}
+.blockbutton:hover{
+background-color: mediumvioletred;
+text-decoration-line: none;
+}
+.blockbutton:active{
+background-color: orangered;
+text-decoration-line: none;
+}
+/*slider*/
+.h1slider{
+	width: 277px;
+height: 39px;
+color: #ffffff;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 500;
+line-height: 48px;
+position: absolute;
+top: 85px;
+left: 822px;
+}
+.imgh1slider{
+	width: 45px;
+height: 38px;
+opacity: 0.7;
+	position: absolute;
+	top: 214px;
+	left: 931px;
+}
+.textslider{
+	/* Style for "Donec feug" */
+position: absolute;
+top: 303px;
+left: 493px;
+width: 935px;
+height: 136px;
+color: #ffffff;
+font-family: "Roboto Condensed";
+font-size: 14px;
+font-weight: 300;
+text-align: center;
+}
+.textslider code1{
+	/* Text style for "JOHN SMITH" */
+font-family: "Arial black";
+font-size: 16px;
+font-weight: 400;
+}
+.textslider code{
+/* Text style for "- FOUNDER" */
+font-family: "Roboto Condensed Light";
+font-size: 16px;
+font-weight: 300;	
+}
+.textslider code4{
+	/* Text style for "," */
+font-family: Poppins;
+font-weight: 500;
+}
+.code3{
+	/* Text style for "D, onec fe" */
+font-family: "Roboto Condensed Light";
+font-weight: 300;
+line-height: 24px;
+}
+.textslider code5{
+font-size: 16px;
+}
+.imglb{
+	margin-top: 10px;
+	margin-left: 13px;
+}
+.carousel-control-prev{
+position: absolute;
+top: 312px;
+left: 377px;
+width: 37px;
+height: 37px;
+border: 1px solid #ffffff;
+}
+.imgrb{
+	margin-top: 10px;
+	margin-left: 13px;
+}
+.carousel-control-next{
+position: absolute;
+top: 312px;
+right: 377px;
+width: 37px;
+height: 37px;
+border: 1px solid #ffffff;
+}
+
+
+/*news*/
+.timeeventtab{
+    margin-top: 211px;
+    padding-left: 410px;
+    float: left;
+}
+.timeevent{ 
+	width: 98px;
+height: 139px;
+border: 1px solid #e8e8e8;
+background-color: #f7f7f7;
+    border-radius: 49px;
+    list-style-type: none;
+    margin-bottom: 49px;
+}
+.timeevent h3{
+    position: absolute;
+    margin-top: -12px;
+}
+.timeevent .yearevent{
+    margin-top: 7px;
+    margin-left: 35px;
+}
+.timeevent .monthevent{
+    margin-top: 50px;
+    margin-left: 32px;
+}
+.dayevent15, .dayevent18, .dayevent20{
+color: #000000;
+font-family: Poppins;
+font-size: 32px;
+font-weight: 500;
+line-height: 48px;
+padding-left: 35px;
+}
+.dayevent15{
+height: 24px;
+width: 29px;
+padding-top: 32px;
+}
+.dayevent18{
+width: 29px;
+height: 25px;
+padding-top: 32px;
+}
+.dayevent20{
+	/* Style for "20" */
+width: 36px;
+height: 23px;
+margin-left: -4px;
+padding-top: 32px;
+}
+.monthevent{
+	/* Style for "June" */
+width: 34px;
+height: 12px;
+color: #9e9e9e;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 48px;
+}
+.yearevent{
+	width: 28px;
+height: 11px;
+color: #9e9e9e;
+font-family: "Poppins - Medium Italic";
+font-size: 13px;
+font-weight: 400;
+line-height: 48px;
+}
+.timeeventtab h1{
+    margin-bottom: 16px;
+}
+.latestnews{
+
+color: #000000;
+font-family: "Poppins";
+font-size: 24px;
+font-weight: 500;
+line-height: 48px;
+white-space: nowrap;
+margin-left: -21px;
+}
+.toph1news{
+width: 254px;
+height: 27px;
+color: #f44336;
+font-family: Poppins;
+font-size: 36px;
+font-weight: 500;
+line-height: 48px;
+white-space: nowrap;
+margin-left: 833px;
+padding-top: 97px;
+}
+/*tabnewstext*/
+.alltextnews{
+font-family: "Roboto Condensed";
+font-weight: 300;
+list-style-type: none;
+margin-left: 38px;
+margin-top: 204px;
+float: left;
+}
+.textnewstab{
+    text-align: left;
+}
+.h3texttab1, .h3texttab2, .h3texttab3{
+    color: #f44336;
+font-family: "Roboto Condensed";
+font-size: 16px;
+font-weight: bold;
+margin-bottom: 23px;
+}
+.h3texttab1{
+    width: 132px;
+height: 16px;
+}
+.h3texttab2{
+width: 149px;
+height: 16px;    
+}
+.h3texttab3{
+width: 129px;
+height: 13px;
+}
+.maintexttab1, .maintexttab2, .maintexttab3{
+    margin-bottom: 114px;
+    width: 308px;
+height: 35px;
+color: #9e9e9e;
+font-family: "Roboto Condensed";
+font-size: 14px;
+font-weight: 300;
+line-height: 24px;
+}
+.featuredevents{
+    width: 191px;
+height: 19px;
+color: #000000;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+white-space: nowrap;
+padding-left: 997px;
+padding-top: 114px;
+}
+.scrollnews{
+    width: 36px;
+height: 16px;
+    margin-top: -13px;
+    margin-left: 618px;
+}
+.rightnewsblock{
+    margin-top: 121px;
+}
+.bordernews{
+    margin-top: -245px;
+    padding-left: 120px;
+    margin-bottom: 32px;
+}
+.lich, .mag, .assasinsmal{
+   margin-top: -90px;
+}
+.lich{
+    margin-left: -575px;
+    width: 189px;
+height: 120px;
+}
+.mag{
+    width: 189px;
+height: 120px;
+}
+.assasinsmal{
+    width: 190px;
+height: 120px;
+}
+.blockmenuevents{
+margin-top: 34px;
+ margin-left: 997px;
+}
+#h0, #h2, #h4, #h6{
+ width: 570px;
+min-height: 40px;
+box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+border-radius: 4px;
+border: 1px solid #ffffff;
+background-color: #ffffff;
+cursor: pointer;
+}
+.h3ev1, .h3ev2, .h3ev3, .h3ev4{
+margin-top:  7px;
+margin-left: 10px;
+}
+.opentext{
+    width: 534px;
+height: 62px;
+color: #505050;
+font-family: "Roboto Condensed";
+font-size: 14px;
+font-weight: 300;
+line-height: 24px;
+   width: 570px;
+height: 144px;
+background-color: #f5f5f5;
+}
+.opentext code{
+ /* Text style for "." */
+color: #000000;
+font-size: 12px;   
+}
+.h3eventtext{  
+    width: 263px;
+height: 16px;
+color: #000000;
+font-family: "Roboto Condensed";
+font-size: 16px;
+font-weight: bold;
+    margin-top:  7px;
+margin-left: 10px;
+}
+.opentext {
+padding-left: 13px;
+padding-right: 23px;
+padding-top: 29px;
+}
+
+/*team*/
+.netteamta li{
+}
+.ourteam{
+    width: 177px;
+height: 27px;
+color: #f44336;
+font-family: "Poppins - Semi Bold";
+font-size: 36px;
+font-weight: 400;
+padding-top: 98px;
+margin-left: 873px;
+}
+.stupidteam{
+width: 270px;
+height: 405px;
+margin-top: 88px;
+margin-left: 378px;
+}
+.stupidteam2{
+    width: 270px;
+height: 405px;
+margin-left: 30px;
+margin-top: 88px;
+}
+.stupidteam3{
+margin-left: 30px;
+margin-top: 88px;
+left: 978px;
+}
+.stupidteam4{
+   margin-left: 30px;
+    margin-top: 88px;
+}
+
+.teamnetworkli{
+    float:left;
+    width: 30px;
+height: 30px;
+border: 2px solid #000000;
+    list-style-type: none;
+    margin-right: 17px;
+    margin-bottom: 119px;
+}
+.teamnetworkli:hover{
+    background-color: aqua;
+}
+.teamnetworkli:active{
+    background-color: #f44336;
+}
+.imageteamnet1{
+    margin-left: 8px;
+    margin-top: -3px;
+}
+.imageteamnet2{
+    margin-left: 6px;
+    margin-top: -2px;
+}
+.imageteamnet3{
+    margin-left: 6px;
+    margin-top: -3px;
+}
+.imageteamnet4{
+    margin-left: 3px;
+}
+.placesteam, .placesteam2, .placesteam3, .placesteam4{
+width: 69px;
+height: 12px;
+color: #838383;
+font-family: "Roboto Condensed";
+font-size: 16px;
+font-weight: 300;
+margin-bottom: 17px;
+}
+.netteamt {
+    margin-bottom: 100px;
+}
+.nameteam, .nameteam2, .nameteam3, .nameteam4{
+    width: 123px;
+height: 24px;
+color: #f44336;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+white-space: nowrap;
+}
+.infomary{    
+    margin-top: 21px;
+    margin-left: 377px;
+    float: left;
+}
+.infopeter{
+    margin-left: 118px;
+    margin-top: 20px;
+    float: left;
+}
+.infojohn{
+	margin-left: 118px;
+    margin-top: 20px;
+    float: left;
+}
+.judas{
+    margin-left: 118px;
+    margin-top: 20px;
+    float: left;
+}
+.nameteam{
+margin-bottom: 9px;   
+}
+.placesteam{
+width: 69px;
+height: 12px;
+margin-bottom: 30px;   
+}
+.nameteam2{
+    width: 144px;
+height: 19px;
+margin-bottom: 15px;
+}
+.placesteam2{
+    width: 73px;
+height: 12px;
+margin-bottom: 30px;
+}
+.nameteam3{
+width: 156px;
+height: 19px;
+margin-bottom: 15px;
+}
+.placesteam3{
+ width: 69px;
+height: 12px; 
+margin-bottom: 30px;
+}
+.nameteam4{
+   width: 167px;
+height: 20px;
+margin-bottom: 15px;
+}
+.placesteam4{
+  width: 69px;
+height: 12px;
+margin-bottom: 30px;
+}
+
+
+/*search*/
+.searchh1{
+    width: 419px;
+height: 39px;
+color: #ffffff;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 500;
+white-space: nowrap;
+padding-top: 76px;
+padding-left: 749px;
+}
+.formsearch{
+padding-left: 645px;
+padding-top: 92px;
+}
+.containersearch input{
+    width: 499px;
+height: 55px;
+background-color: #ffffff;
+margin-right: 8px;
+}
+.searchstroke{
+width: 28px;
+height: 11px;
+color: #8e8e8e;
+font-family: "Roboto Condensed";
+font-size: 14px;
+font-weight: 300;
+padding-left: 30px;
+}
+.buttonformail{
+    width: 54px;
+height: 11px;
+color: #ffffff;
+font-family: "Roboto Condensed";
+font-size: 14px;
+font-weight: 300;
+}
+.containersearch button{
+ width: 119px;
+height: 53px;
+background-color: #f44336;  
+border:0;
+}
+/*contacts*/
+.h1contacts{
+    width: 199px;
+height: 27px;
+color: #f44336;
+font-family: "Arial black";
+font-size: 36px;
+font-weight: 400;
+    line-height: 48px;
+    white-space: nowrap;
+	margin-top: 85px;
+	margin-left: 858px;
+}
+.formcontact{
+	margin-left: 975px;
+	margin-top: 103px;
+	margin-bottom: 96px;
+}
+.namediv input{
+    width: 470px;
+height: 42px;
+border: 1px solid #999999;
+margin-bottom: 21px;
+}
+.emaildiv input{
+    width: 470px;
+height: 42px;
+border: 1px solid #999999;
+margin-bottom: 21px;    
+}
+.messdiv textarea{
+    width: 470px;
+height: 168px;
+border: 1px solid #999999;
+    resize: none;
+}
+.buttdiv button{
+    width: 140px;
+height: 40px;
+background-color: #f44336;
+border: 0;
+}
+.messdiv{
+    padding-bottom: 19px;
+}
+.namecontacts{
+    width: 32px;
+height: 10px;
+color: #838383;
+font-family: "Roboto Condensed";
+font-size: 14px;
+font-weight: 400;
+line-height: 48px;
+box-sizing: border-box;
+}
+.emailcontacts{
+width: 30px;
+height: 11px;
+color: #838383;
+font-family: "Roboto Condensed";
+font-size: 14px;
+font-weight: 400;
+line-height: 48px;
+box-sizing: border-box;
+}
+.messagecontacts{
+    width: 49px;
+height: 13px;
+color: #838383;
+font-family: "Roboto Condensed";
+font-size: 14px;
+font-weight: 400;
+line-height: 48px;
+box-sizing: border-box;
+}
+.buttonformail{
+    width: 44px;
+height: 10px;
+color: #ffffff;
+font-family: "Roboto Condensed";
+font-size: 14px;
+font-weight: 400;
+text-transform: uppercase;
+}
+.namediv input{
+    padding-left: 0px;
+}
+form .namecontacts{
+padding-left: 16px;
+padding-top: 15px;
+padding-bottom: 17px;
+}
+form .emailcontacts{
+padding-left: 16px;
+padding-top: 14px;
+padding-bottom: 17px;  
+}
+form .messagecontacts{
+padding-left: 13px;
+}
+.h2contacts{
+    width: 201px;
+height: 20px;
+color: #f44336;
+font-family: "Roboto Condensed";
+font-size: 26px;
+font-weight: 400;
+white-space: nowrap;
+margin-top: -439px;
+margin-left: 474px;
+margin-bottom: 18px;
+}
+.textcontact{
+    width: 386px;
+height: 201px;
+color: #9e9e9e;
+font-family: "Roboto Condensed";
+font-size: 14px;
+font-weight: 300;
+line-height: 17px;
+text-align: left;
+margin-left: 474px;
+}
+.textcontact text{
+ 	color: #f44336;    
+}
+.routemap{
+ width: 191px;
+height: 36px;
+color: #f44336;
+font-family: "Arial black";
+font-size: 36px;
+font-weight: 400; 
+line-height: 48px;
+white-space: nowrap;
+margin-left: 869px;
+margin-top: 230px;
+}
+.routemap1{
+     width: 191px;
+height: 36px;
+color: #f44336;
+font-family: "Arial black";
+font-size: 36px;
+font-weight: 400; 
+line-height: 48px;
+white-space: nowrap;
+margin-left: 869px;
+margin-top: 99px;
+}
+iframe{
+margin-left: 376px;
+margin-bottom: 90px;
+padding-top: 33px;
+}
+.footer{
+    width: 100%;
+ min-height: 71px;
+background-color: #000000;
+
+}
+.footertext{
+    width: 305px;
+height: 14px;
+color: #ffffff;
+font-family: "Arial Narrow";
+font-size: 16px;
+font-weight: 400;
+line-height: 22px;
+white-space: nowrap;
+box-sizing: border-box;
+letter-spacing: 0.16px;
+margin-left: 808px;
+padding-bottom: 29px;
+padding-top: 29px;
+}
+/*******catalog*******/
+
+.h1gallerytop{
+    width: 202px;
+height: 37px;
+color: #f44336;
+font-family: Poppins;
+font-size: 36px;
+font-weight: 500;
+line-height: 36px;
+white-space: nowrap;
+padding-left: 828px;
+padding-top: 349px;
+}
+.namebt{
+width: 90px;
+height: 12px;
+color: #000000;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+text-transform: uppercase;
+/* Text style for "battlefiel" */
+letter-spacing: 0.14px;
+white-space: nowrap;
+
+}
+.col1-sm{
+    margin-left: 370px;
+    margin-top: 143px;
+    display: grid;
+    grid-gap: 135px;
+    padding-right: 30px;
+}
+.col2-sm{
+    margin-top: 143px;
+     display: grid;
+    grid-gap: 98px;
+    padding-right: 30px;
+}
+.col3-sm{
+     margin-top: 143px;
+     display: grid;
+    grid-gap: 108px;
+    padding-right: 30px;
+}
+.col4-sm{
+     margin-top: 143px;
+     display: grid;
+    grid-gap: 130px;
+}
+.namebt{
+    padding-left: 90px;
+    padding-top: 19px;
+    /*margin-bottom: 163px;*/
+}
+.galbutton{
+    margin-left: 350px;
+    top: 930px;
+}
+.asscd{
+    width: 128px;
+height: 36px;
+color: #000000;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+text-transform: uppercase;
+/* Text style for "assassin’s" */
+letter-spacing: 0.14px;
+/* Text style for "Rogue" */
+letter-spacing: 0.14px;
+text-align: center;
+margin-left: 72px;
+margin-top: 18px;
+}
+.btn2{
+    margin-top: 572px;
+}
+.stws1{
+    /* Style for "star wars:" */
+width: 86px;
+height: 32px;
+color: #000000;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+letter-spacing: 0.14px;
+text-transform: uppercase;
+white-space: nowrap;
+margin-left: 91px;
+margin-top: 10px;
+}
+.stws2{
+    width: 86px;
+height: 32px;
+color: #000000;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+letter-spacing: 0.14px;
+text-transform: uppercase;
+white-space: nowrap;
+margin-left: 81px;
+margin-top: -50px;
+}
+.button3{
+    margin-left: 648px;
+}
+.honor{
+    /* Style for "for honor" */
+width: 81px;
+height: 12px;
+color: #000000;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 23.94px;
+text-transform: uppercase;
+/* Text style for "for honor" */
+letter-spacing: 0.14px;
+white-space: nowrap;
+margin-left: 94px;
+margin-top: 20px;
+}
+.bfdimg{
+    /* Style for "BATTLEFIEL" */
+width: 95px;
+height: 12px;
+color: #000000;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 23.94px;
+text-transform: uppercase;
+/* Text style for "BATTLEFIEL" */
+letter-spacing: 0.14px;
+white-space: nowrap;
+margin-left: 89px;
+margin-top: 20px;
+}
+.button5{
+    margin-left: 952px;
+}
+.wot{
+    /* Style for "world of t" */
+width: 120px;
+height: 12px;
+color: #000000;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+text-transform: uppercase;
+/* Text style for "world of t" */
+letter-spacing: 0.14px;
+text-align: center;
+margin-left: 75px;
+margin-top: 10px;
+}
+.button7{
+   margin-left: 1254px; 
+}
+.galbutton{
+text-decoration: none;
+position: absolute;
+bottom: 13px;
+left: 70px;
+width: 130px;
+height: 30px;
+background-color: #f44336;
+}
+.galbutton:hover{
+background-color: mediumvioletred;
+text-decoration-line: none;
+}
+.galbutton:active{
+background-color: orangered;
+text-decoration-line: none;
+}
+.wowr{
+	width: 146px;
+height: 12px;
+color: #000000;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+text-transform: uppercase;
+/* Text style for "world of w" */
+letter-spacing: 0.14px;
+margin-left: 63px;
+margin-top: 20px;
+white-space: nowrap;
+}
+.coding{
+	/* Style for "call of du" */
+width: 114px;
+height: 32px;
+color: #000000;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+/* Text style for "call of du" */
+letter-spacing: 0.14px;
+text-transform: uppercase;
+/* Text style for "Infinite W" */
+letter-spacing: 0.14px;
+word-wrap: break-word;
+margin-left: 78px;
+margin-top: 18px;
+}
+.coding p{
+white-space: nowrap;
+margin-left: -13px;
+}
+.button2, .button4, .button6, .button8{
+	margin-top: 572px;
+}
+.button2{
+	margin-left: 353px;
+}
+.button4{
+	margin-left: 653px
+}
+.button6{
+	margin-left: 959px
+}
+.button8{
+	margin-left: 1248px
+}
+.row2{
+	  display: grid;
+  align-items: start;
+}
+.showmore{
+width: 123px;
+height: 16px;
+color: #000000;
+font-family: "Roboto Condensed";
+font-size: 17px;
+font-weight: 400;
+line-height: 22.36px;
+/* Text style for "Show more" */
+letter-spacing: 0.36px;
+white-space: nowrap;
+padding-left: 33px;
+padding-top: 6px;
+width: 208px;
+height: 38px;
+border: 1px solid #000000;
+
+}
+.containermain .showmore{
+margin-bottom: 174px;
+margin-top: 123px;
+margin-left: 856px;
+}
+.containermain a{
+    text-decoration-line: none;
+}
+.showmore:hover{
+    background-color:#f44336 ;
+}
+.salesnow{
+    display: flex;
+    position: relative;
+    width: 100%;
+}
+.mohimg{
+width: 100%;
+height: 562px;
+}
+codimg{
+width: 100%;
+height: 562px;   
+}
+.disc{
+width: 91px;
+height: 14px;
+color: #010101;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 500;
+line-height: 36px;
+text-transform: uppercase;
+margin-bottom: 17px;
+}
+.namedisk{
+    width: 265px;
+height: 61px;
+color: #f44336;
+font-family: "Myriad Pro";
+font-size: 36px;
+font-weight: 400;
+line-height: 36px;
+margin-bottom: 28px;
+letter-spacing: -0.4px;
+}
+.namedisk2{
+    width: 307px;
+height: 27px;
+color: #f44336;
+font-family: Poppins;
+font-size: 36px;
+font-weight: 500;
+line-height: 36px;
+text-transform: uppercase;
+margin-bottom: 28px;
+white-space: nowrap;
+}
+.price{
+  /* Style for "$14.44 / $" */
+width: 323px;
+height: 56px;
+color: #8c8c8c;
+font-family: Poppins;
+font-size: 36px;
+font-weight: 300;
+line-height: 48px;
+white-space: nowrap;
+}
+.price st{
+   color: #000000;
+font-size: 62px; 
+}
+.price mt{
+   text-decoration: line-through; 
+}
+
+.textbigbutton{
+width: 55px;
+height: 30px;
+color: #ffffff;
+font-family: Poppins;
+font-size: 30px;
+font-weight: 500;
+line-height: 24px;
+/* Text style for "B, uy" */
+letter-spacing: 0.3px;
+padding-left: 106px;
+padding-top: 18px;
+}
+.bigbutton p{
+    width: 265px;
+height: 62px;
+border: 1px solid #000000;
+background-color: #f44336;
+}
+.bigbutton p:hover{
+    background-color: darkred;
+}
+.bigbutton p:active{
+    background-color: orangered;
+}
+.textcod{
+    position: absolute;
+    top: 152px;
+    left: 114px;
+}
+.textcod2{
+    position: absolute;
+    top: 182px;
+    right: 521px;
+}
+/*gamecarousel*/
+
+.carousel {
+ margin-top: 20px;
+}
+.item .thumb {
+ width: 25%;
+ cursor: pointer;
+ float: left;
+}
+.item .thumb img {
+ width: 100%;
+ margin: 2px;
+}
+.item img {
+ width: 100%; 
+}
+.slidergame{
+    width: 670px;
+    height: 357px;
+    margin-left: 300px;
+    margin-top: 200px;
+    float: left;
+}
+.slidergame .carousel-control-prev{
+    margin-top: -150px;
+    margin-left: 220px;
+}
+.slidergame .carousel-control-next{
+     margin-top: -150px;
+    margin-right: 220px;
+}
+.textsale a{
+text-decoration-line: none;
+}
+.namegamebuy{
+    /* Style for "Assasin’s" */
+width: 291px;
+height: 75px;
+color: #000000;
+font-family: Poppins;
+font-size: 36px;
+font-weight: 500;
+line-height: 36px;
+white-space: nowrap;
+margin-left: 1150px;
+margin-top: 210px;
+}
+.namegamebuy p{
+/* Text style for ", Rogue" */
+color: #f44336; 
+margin-left: 85px; 
+margin-top: -30px;
+}
+.pricebuy{
+/* Style for "$29.99" */
+width: 187px;
+height: 56px;
+color: #000000;
+font-family: Poppins;
+font-size: 62px;
+font-weight: 300;
+line-height: 48.02px;
+margin-left: 1200px;
+margin-top: 21px;
+}
+.largebutton .largebuttonbuy{
+    text-decoration-line: none;
+}
+.largebutton p{
+  padding-left: 196px;  
+    padding-top: 18px;
+}
+.largebutton{
+        
+  /* Style for "Buy" */
+width: 55px;
+height: 30px;
+color: #ffffff;
+font-family: Poppins;
+font-size: 30px;
+font-weight: 500;
+line-height: 24px;
+/* Text style for "B, uy" */
+letter-spacing: 0.3px;
+text-decoration: none;
+}
+.largebutton:hover{
+    color: white;
+}
+.largebuttonbuy:hover{
+    background-color: brown;
+	border: 2px solid white;
+}
+.largebuttonbuy:active{
+    background-color: coral; 
+	border: 2px solid white;
+}
+.largebuttonbuy{
+       width: 470px;
+height: 62px;
+background-color: #f44336;
+margin-left: 1073px;
+border: 1px solid white;
+}
+.textbuy{
+    /* Style for "The plot i" */
+width: 463px;
+height: 153px;
+color: #999999;
+font-family: "Roboto Condensed";
+font-size: 12px;
+font-weight: 300;
+line-height: 24px;
+/* Text style for "The plot i" */
+letter-spacing: 0.12px;
+margin-left: 1070px;
+text-align: center
+}
+.textsale{
+    height: 100%x;
+    padding-bottom: 178px;
+}
+.othergames{
+    width: 100%;
+min-height: 100%;
+max-height: 1920px;
+background-color: #e3e3e3;
+padding-bottom: 519px;
+}
+.simgames{ 
+width: 258px;
+height: 38px;
+color: #f44336;
+font-family: Poppins;
+font-size: 36px;
+font-weight: 500;
+line-height: 36px;
+white-space: nowrap;
+margin-left: 830px;
+padding-top: 49px;
+}
+.row1{
+    margin-top: 128px;
+    margin-left: 380px;
+    position: relative;
+}
+.row1 span{
+        float: left;
+     display: grid;
+    padding-right: 30px;
+}
+/*shadow*/
+.namesh{
+    /* Style for "MIDDLE-EAR" */
+width: 111px;
+height: 32px;
+color: #000000;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+text-transform: uppercase;
+/* Text style for "MIDDLE-EAR" */
+letter-spacing: 0.14px;
+/* Text style for "hadow Of W" */
+letter-spacing: 0.14px;
+    white-space: nowrap;
+    margin-top: 0px;
+}
+.nameds{
+    /* Style for "DISHONORED" */
+width: 102px;
+height: 12px;
+color: #000000;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 23.94px;
+text-transform: uppercase;
+/* Text style for "DISHONORED" */
+letter-spacing: 0.14px;
+    white-space: nowrap;
+    margin-top: -90px;
+	margin-bottom: 30px;
+	padding-left: 84px;
+}
+.nameth{
+    /* Style for "THIEF" */
+width: 36px;
+height: 12px;
+color: #000000;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 23.94px;
+text-transform: uppercase;
+/* Text style for "THIEF" */
+letter-spacing: 0.14px;
+margin-bottom: 30px;
+padding-left: 65px;
+white-space: nowrap
+}
+.nameht{
+    /* Style for "HITMAN" */
+width: 52px;
+height: 12px;
+color: #000000;
+font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+text-transform: uppercase;
+/* Text style for "HITMAN" */
+letter-spacing: 0.14px;
+white-space: nowrap;
+margin-bottom: 30px;
+padding-left: 75px;
+}
+.hitgame, .dishgame, .thiefgame, .shadowgame{
+position: absolute; 
+}
+.shadowgame .galbuttonsh{
+	position: absolute;
+	top: 432px;
+	left: 23px;
+}
+.thiefgame .galbuttonsh{
+	position: absolute;
+	right: 42px;
+}
+.dish .galbuttonsh{
+	position: absolute;
+	bottom: 48px;
+	right: 87px;
+}
+.hit .galbuttonsh{
+	position: absolute;
+	top: -531px;
+	right: 55px;
+}
+.thiefgame{
+position: absolute;
+top: 390px;
+}
+.hitgame{
+    position: absolute;
+    top: 391px;
+}
+.dishgame{
+    position: absolute;
+	top: 480px;
+}
+.namesh{
+    text-align: center;
+    margin-left: 80px;
+	margin-top: 391px;
+}
+.mid{
+    margin-left: 10px;
+    margin-bottom: -2px;
+}
+
+.galbuttonsh{
+ 	position: absolute
+    }
+.galbuttonsh p{
+width: 130px;
+height: 30px;
+background-color: #f44336;
+position: absolute;
+padding-left: 50px;
+padding-top: 3px;
+}
+.galbuttonsh p:hover{
+	background-color: darkred;
+	border: 0.5px solid white;
+}
+.galbuttonsh p:active{
+	background-color: orangered;
+}
+.battlefield{
+    width: 291px;
+height: 75px;
+color: #000000;
+font-family: Poppins;
+font-size: 36px;
+font-weight: 500;
+line-height: 36px;
+white-space: nowrap;
+margin-left: 1180px;
+margin-top: 219px;
+}
+.starwars{
+      width: 291px;
+height: 75px;
+color: #000000;
+font-family: Poppins;
+font-size: 36px;
+font-weight: 500;
+line-height: 36px;
+white-space: nowrap;
+margin-left: 1195px;
+margin-top: 219px;  
+}
+.starwars p{
+   color: #f44336; 
+margin-left: -22px; 
+margin-top: -30px; 
+}
+.worldoftanks{
+         width: 291px;
+height: 75px;
+color: #000000;
+font-family: Poppins;
+font-size: 36px;
+font-weight: 500;
+line-height: 36px;
+white-space: nowrap;
+margin-left: 1145px;
+margin-top: 219px; 
+}
+.forhonor{
+margin-left: 1192px; 
+margin-top: 220px;
+}
+.warship{
+margin-left: 1102px; 
+margin-top: 220px;    
+}
+.infinitywars{
+margin-left: 1175px;
+}
+.infinitywars p{
+margin-left: -37px;
+}
